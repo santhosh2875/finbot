@@ -77,7 +77,9 @@ Documents are:
 🛠️ Setup Instructions:
 recommended python version:
 ----Python 3.11.0----------recommended
+
 -----visual studio code-------recommended
+
 🐍 1. Create  Virtual Environment
  
 📦 Step 1: Open a terminal inside your project directory and run:
@@ -94,6 +96,7 @@ recommended python version:
 
 🔐 3. Configure .env
 ---.env file in the root directory of the project:
+
 ---Paste your OpenRouter API key into it like this:
 
 OPENROUTER_API_KEY=paste your your_openrouter_key
@@ -126,14 +129,20 @@ OPENROUTER_API_KEY=paste your your_openrouter_key
 
 
 Username: alice||bob||john||eve||dan||-- (any one!!)
+
 password: password123
 
 ------------------
 Ask Question according to the role:
+
 -What is the company’s vision and mission?--(emploee)
+
 -Where is FinSolve headquartered?--(engineering)
+
 -What was the total revenue in Q4 2024?--(finace)
+
 -What was the customer acquisition target for Q4 2024?--(marketing)
+
 -any question from the company for-- (c-Level)
 
 
