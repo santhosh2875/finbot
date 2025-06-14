@@ -97,7 +97,7 @@ recommended python version:
 
 🧪 2. Install Dependencies
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 🔐 3. Configure .env
@@ -106,7 +106,7 @@ recommended python version:
 
 ---Paste your OpenRouter API key into it like this:
 
-OPENROUTER_API_KEY=paste your your_openrouter_key
+    OPENROUTER_API_KEY=paste your your_openrouter_key
 
 
   
@@ -114,7 +114,7 @@ OPENROUTER_API_KEY=paste your your_openrouter_key
 
  # ✅ This will generate the chroma_db folder from your markdown and CSV files
 
-   python -m backend.ingest
+    python -m backend.ingest
 
 
 ▶️ How to Run the Project
