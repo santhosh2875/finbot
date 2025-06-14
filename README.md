@@ -128,7 +128,7 @@ recommended python version:
     
     streamlit run frontend/app.py
 
-    - Visit: http://localhost:8501
+  - Visit: http://localhost:8501
 
 
 ----------------------------------------------------------------------------------------------------------------------
